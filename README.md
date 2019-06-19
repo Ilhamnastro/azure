@@ -1,0 +1,2 @@
+# azure
+latihan microsoft azure
